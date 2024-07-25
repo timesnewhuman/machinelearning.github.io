@@ -2,7 +2,7 @@
 
 ### Multi-armed Bandit Problem
 
-#### Demonstrating the Thompson Sampling algorithm for Bayesian inference
+#### Demonstrating the Thompson sampling algorithm for Bayesian inference
 
 ![Alt Text](https://github.com/timesnewhuman/machinelearning.github.io/blob/main/bayesian_bandit.gif)
 
